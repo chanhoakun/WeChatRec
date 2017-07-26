@@ -1,0 +1,2 @@
+# WeChatRec
+利用Python和Python库itChat写成的自动回复微信消息的代码
